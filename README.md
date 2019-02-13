@@ -1,1 +1,3 @@
-# shimamura_nguyen_1056_project3
+Mari Shimamura and Hien Nguyen
+
+This is our midterm for our client Thames River Angelers Association (TRAA)
